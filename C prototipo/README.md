@@ -101,4 +101,33 @@ Clonar el repositorio: Descarga o clona este proyecto y ábrelo con VSCode.
 
    - "OFF": Fuerza el apagado del LED (reenvía "LED_OFF").
 
-   - "AUTO": Vuelve al modo automático para que el ESP32 controle el LED según la luminosidad.  
+   - "AUTO": Vuelve al modo automático para que el ESP32 controle el LED según la luminosidad.
+ 
+
+## imagenes:
+<p align="center">
+  <img src="Imagenes/Vscode.jpeg" alt="VSCODE" width="600">
+</p>  
+   
+<p align="center">
+  <img src="Imagenes/Json_Raw.jpeg" alt="Broker con Json" width="600">
+</p>    
+   
+
+<p align="center">
+  <img src="Imagenes/APK__Iot-MqTT-Panel.jpeg" alt="APK con datos json visuales" width="600">
+</p>
+
+
+---  
+
+
+## Video de Funcionamiento
+
+<p align="center">
+  <a href="https://youtube.com/shorts/NL2lv98-YO0?feature=share">
+    <img src="C%20prototipo/Imagenes/VideoPreview.png" alt="Ver video en YouTube" width="600">
+  </a>
+</p>
+
+
