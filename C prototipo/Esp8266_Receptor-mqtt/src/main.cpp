@@ -7,14 +7,14 @@
 #include <ArduinoJson.h>  // Necesaria para StaticJsonDocument y serializeJson
 
 // Configuración WiFi
-const char* ssid = "Clarowiii";
-const char* password = "F4m1l14@";
+const char* ssid = "SSSID";
+const char* password = "PASS";
 
 // Configuración MQTT
-const char* mqtt_server = "144b0f0b708947df835498a9bf10bfb5.s1.eu.hivemq.cloud";
-const int mqtt_port = 8883;
-const char* mqtt_user = "ispc2025";
-const char* mqtt_password = "ispc2025A";
+const char* mqtt_server = "broker";
+const int mqtt_port = 0000;
+const char* mqtt_user = "Ussr";
+const char* mqtt_password = "Pass";
 
 // Topics MQTT
 const char* data_topic = "sistema/luz/ambiente";
